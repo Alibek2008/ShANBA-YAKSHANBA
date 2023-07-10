@@ -1,0 +1,392 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+    margin-top: 60px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.Light{
+    border: 1px solid white;
+    width: 1086px;
+    height: 383px;
+    padding: 20px;
+    border-radius: 24px;
+    background: #FFF;
+    box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.08);
+     display: flex;
+     margin: 0 auto;
+     margin-top: 28px;
+}
+.energy{
+    margin-left: 33px;
+}
+.energy p{
+    width: 541px;
+    line-height: 140%;
+    color: #8D98AA;
+    font-size: 20px;
+    margin-top: 24px;
+}
+.Ajay{
+    position: absolute;
+    top: 350px;
+    left: 750px;
+    display: flex;
+}
+
+.Ajay h4{
+    margin-left: 24px;
+    color: #284B80;
+}
+.Ajay p{
+  margin-top: 30px;
+  margin-left: -90px;
+  color: #8D98AA;
+  line-height: 140%;
+}
+.Right{
+    margin-top: 250px;
+   margin-left: -20px;
+}
+.Ajayi{
+    position: absolute;
+    top: 750px;
+    left: 750px;
+    display: flex;
+}
+
+.Ajayi h4{
+    margin-left: 24px;
+    color: #284B80;
+}
+.Ajayi p{
+  margin-top: 30px;
+  margin-left: -90px;
+  color: #8D98AA;
+  line-height: 140%;
+}
+.Left{
+    margin-top: 250px;
+   margin-left: -20px;
+}
+.main{
+    margin-top: 112px;
+    margin-left: 57px;
+}
+.How{
+    border: 1px solid white;
+    width: 354px;
+    height: 511px;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.08);
+}
+.make{
+    display: flex;
+    justify-content: center;
+    padding: 14px;
+}
+.perfect{
+    margin-left: 14px;
+    line-height: normal;
+    color: #284B80;
+}
+.Ajaybek{
+    display: flex;
+    margin-left: 14px;
+    margin-top: 34px;
+}
+.Ajaybek h4{
+    margin-left: 24px;
+    color: #284B80;
+}
+.chiqarilgan{
+    margin-left: 100px;
+    margin-top: -30px;
+    color: #8D98AA;
+}
+.Kattasi{
+    display: flex;
+    /* margin-left: 145px; */
+    gap: 25px;
+    margin-top: 26px;
+}
+.Rawai{
+border: 1px solid white;
+width: 492px;
+height: 633px;
+margin-top: 96px;
+border-radius: 16px;
+background: #FFF;
+box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.08);
+}
+.Phuket img{
+    border-radius: 15px 15px 0px 0px;
+}
+.Phuket h3{
+    color: #6E7491;
+    padding: 16px;
+
+}
+.location{
+    display: flex;
+    margin-left: 14px;
+    color: #6E7491;
+}
+.location p{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.Views{
+    margin-left: 94px;
+    margin-top: 32px;
+}
+.Views p span{
+    margin-left: 15px;
+    color: #6E7491;
+    line-height: 23px;
+}
+.Viewses{
+    margin-left: 310px;
+    margin-top: -40px;
+}
+.Viewses p span{
+    margin-left: -15px;
+    color: #6E7491;
+    line-height: 23px;
+}
+.See{
+    border: 1px solid #2D9CDB;
+    width: 340px;
+      height: 40px;
+     margin-left: 70px;
+     margin-top: 40px;
+     border-radius: 5px;
+     background-color: #2D9CDB;
+}
+.See p{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    color: white;
+}
+.Beach{
+    display: flex;
+    gap: 50px;
+    margin-left: 100px;
+}
+
+
+.Brooklyn{
+    margin-left: 220px;
+    border: 1px solid #F1F1F1;
+    width: 820px;
+    height: 528px;
+    margin-top: 130px;
+    border-radius: 16px;
+    background-color: #F1F1F1;
+    padding: 16px;
+    display: flex;
+    gap: 20px;
+}
+.Simmons{
+    border: 1px solid;
+    width: 250px;
+    height: 240px;
+    border-radius: 16px;
+    border: 1px solid var(--iris-100, #5D5FEF);
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.05);
+}
+.Netherlanmd img{
+    padding-top: 16px;
+    padding-left: 90px;
+}
+.Foll h3{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    color: #414F58;
+}
+.lakatsiya{
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+    margin-top: 4px;
+}
+.lakatsiya p{
+    margin-top: 5px;
+    color: #8D98AA;
+}
+.Line{
+    display: flex;
+    justify-content: center;
+    margin-top: 13px;
+}
+.Followers{
+    margin-left: 34px;
+    margin-top: 13px;
+    line-height: 25px;
+    color: #8D98AA;
+}
+.Followers h3{
+    margin-left: 15px;
+    color: #414F58;
+}
+.Line189{
+    margin-left: 130px;
+    margin-top: -50px;
+}
+.Follower{
+    margin-left: 154px;
+    margin-top: -49px;
+    line-height: 25px;
+    color: #8D98AA;
+}
+.Follower h3{
+    margin-left: 15px;
+    color: #414F58;
+}
+.Simmone{
+    border: 1px solid white;
+    width: 250px;
+    height: 240px;
+    border-radius: 16px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.05);
+}
+.Obshiy{
+    display: flex;
+    gap: 20px;
+}
+.Obshey{
+    display: flex;
+    /* margin-left: 100px; */
+    margin-top: -250px;
+    gap: 20px;
+    margin-left: 385px;
+}
+.Buyam-kattasi{
+    width: 1500px;
+    margin: 0 auto;
+}
+.Conference{
+    border: 1px solid white;
+    width: 504px;
+    height: 549px;
+    /* margin-left: 71px; */
+    margin-top: 150px;
+    border-radius: 16px;
+    background: #FFF;
+    box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.08);
+}
+.Space img{
+    border-radius: 16px 16px 0px 0px;
+}
+.Space h2{
+    margin-top: 24px;
+    margin-left: 16px;
+}
+.Space p{
+ margin-left: 360px;
+ border: 1px solid ;
+ width: 115px;
+ border-radius: 32px;
+ border: 1px solid var(--dcs-primary-10, #598EC2); 
+ display: flex;
+ justify-content: center;
+ padding: 8px 16px;
+ margin-top: -30px;
+}
+.Gurugam{
+    margin-left: 16px;
+    margin-top: 12px;
+}
+.Gurugam img{
+    margin-top: 24px;
+}
+.raqam{
+    margin-left: 130px;
+    margin-top: -25px;
+}
+.Capacity{
+    margin-left: 70px;
+    margin-top: 33px;
+    color: #90A4AE;    
+}
+.Capacity h3{
+    margin-left: -20px;
+    margin-top: 11px;
+}.zone{
+
+    margin-left: 240px;
+    margin-top: -50px;
+    color: #90A4AE;    
+}
+.zone h3{
+    margin-left: -30px;
+    margin-top: 11px;
+}
+.Yes{
+
+    margin-left: 370px;
+    margin-top: -50px;
+    color: #90A4AE;    
+}
+.Yes h3{
+    margin-left: 20px;
+    margin-top: -18px;
+}
+.Yes img{
+ margin-top: 15px;
+}
+.Chair{
+    display: flex;
+    margin-left: 270px;
+    gap: 30px;
+    width: 980px;
+    margin: 0 auto;
+}
+.Space p{
+    color: #2D9CDB;
+}
+.Weddings{
+    /* margin-left: 50px; */
+    margin-top: 38px;
+    border: 1px solid white;
+    width: 246px;
+    height: 360px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.08);
+}
+.Wedding h1{
+ color: #414F58;
+ padding: 16px;
+ font-size: 22px;
+}
+.Wedding p{
+    margin-left: 16px;
+     margin-top: -7px;
+     color: #6D8493;
+}
+.Ring{
+    margin-left: 180px;
+    margin-top: -50px;
+}
+footer{
+    display: flex;
+    gap: 32px;
+}
+.Ustoz-Bu-Footerniyam-orab-olgan{
+    width: 1020px;
+    margin: 0 auto;
+}
+.Eng-Kattasi{
+    margin-top: 161px;
+}
